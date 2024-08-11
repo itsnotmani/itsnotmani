@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mani Shirbandi</h1>
-<h3 align="center">A Android developer from Iran</h3>
+<h3 align="center">An Android developer from Iran</h3>
 
 <img align = "right" alt = "me" with = "400" src = "https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif"/>
 
